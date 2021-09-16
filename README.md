@@ -8,6 +8,6 @@ Please navigate to the [releases page](https://github.com/DPO-Group/DPO_Shopify/
 
 ## About DPO
 
-[DPO's](https://www.dpogroup.com/africa/) highly secure payment platform makes payments simple by allowing businesses to accept credit cards, mobile payments and cross-border payments.
+[DPO's](https://dpogroup.com/) highly secure payment platform makes payments simple by allowing businesses to accept credit cards, mobile payments and cross-border payments.
 
 Our mission is to bring African businesses the most advanced online and offline payment processing technologies, while supporting growth and financial inclusion. The DPO Group payment processing solution allows merchants to accept payments online & offline, settle payments, receive cash advances and enjoy seamless payment processing.
