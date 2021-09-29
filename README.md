@@ -4,6 +4,7 @@
 This is the DPO Group method for Shopify. Please feel free to contact the [DPO Group support team](https://dpogroup.com/contact-us/) should you require any assistance.
 
 ## Installation
+
 Please navigate to the [releases page](https://github.com/DPO-Group/DPO_Shopify/releases), download the latest release (v1.0.14). You will then be able to follow the integration guide PDF.
 
 ## About DPO
